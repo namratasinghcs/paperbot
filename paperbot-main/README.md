@@ -33,6 +33,3 @@ To answer user's questions, PaperBot does a semantic search on Pinecone Vector d
 - Pinecone (Vector DB)
 - OpenAI Models - Embedding and Completion
 
-## Contact
-
-mohdejazsiddiqui@gmail.com
